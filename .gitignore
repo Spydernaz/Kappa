@@ -1,6 +1,6 @@
-.vscode/
-.metals/
-.bsp/
+.vscode
+.metals
+.bsp
 .env
 data/
 target/
