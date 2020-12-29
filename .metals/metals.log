@@ -1,0 +1,76 @@
+2020.12.26 11:38:18 INFO  Started: Metals version 0.9.8 in workspace '/Users/valana/Projects/personal/Kappa' for client vscode.
+2020.12.26 11:38:18 INFO  time: initialize in 0.53s
+2020.12.26 11:38:19 WARN  Build server is not auto-connectable.
+2020.12.26 11:38:19 WARN  no build tool detected in workspace '/Users/valana/Projects/personal/Kappa'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.26 11:38:19 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 11:38:25 INFO  no build target: using presentation compiler with only scala-library
+2020.12.26 11:39:00 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 11:39:51 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 11:40:16 WARN  no build tool detected in workspace '/Users/valana/Projects/personal/Kappa'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.26 11:40:16 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 11:42:38 WARN  no build tool detected in workspace '/Users/valana/Projects/personal/Kappa'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.26 11:43:08 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 11:43:45 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 11:51:09 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 11:55:51 WARN  no build tool detected in workspace '/Users/valana/Projects/personal/Kappa'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.26 11:55:53 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 11:57:01 WARN  no build tool detected in workspace '/Users/valana/Projects/personal/Kappa'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.26 11:57:01 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+something's wrong: no file:///Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala in Array[String]RangePosition(file:///Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala, 330, 330, 343)
+2020.12.26 12:11:19 WARN  no build tool detected in workspace '/Users/valana/Projects/personal/Kappa'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.26 12:11:19 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 12:20:10 WARN  no build tool detected in workspace '/Users/valana/Projects/personal/Kappa'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.26 12:25:44 WARN  no build tool detected in workspace '/Users/valana/Projects/personal/Kappa'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.26 12:25:44 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 12:27:36 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 12:27:48 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 12:30:08 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 12:30:47 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 12:31:46 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 12:32:29 WARN  no build tool detected in workspace '/Users/valana/Projects/personal/Kappa'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.26 12:32:32 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 12:36:40 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 12:37:34 WARN  no build tool detected in workspace '/Users/valana/Projects/personal/Kappa'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.26 12:37:34 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 12:38:31 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 12:38:55 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 12:39:25 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 12:40:44 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 12:41:00 WARN  no build tool detected in workspace '/Users/valana/Projects/personal/Kappa'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.26 12:41:07 WARN  no build tool detected in workspace '/Users/valana/Projects/personal/Kappa'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.26 12:41:07 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 12:41:23 WARN  no build tool detected in workspace '/Users/valana/Projects/personal/Kappa'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.26 12:41:31 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 12:41:53 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 12:42:10 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 12:45:56 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+something's wrong: no file:///Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala in Array[String]RangePosition(file:///Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala, 679, 679, 692)
+2020.12.26 12:53:52 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+something's wrong: no file:///Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala in Array[String]RangePosition(file:///Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala, 679, 679, 692)
+2020.12.26 13:09:36 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 13:09:42 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 13:13:45 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 13:17:02 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 13:17:09 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 13:17:36 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 13:20:03 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 13:20:33 WARN  no build tool detected in workspace '/Users/valana/Projects/personal/Kappa'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.26 13:20:33 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 13:21:22 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/testKakfaJob.scala
+2020.12.26 18:21:03 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/KafkaJob.scala
+2020.12.26 18:21:30 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/KafkaJob.scala
+2020.12.26 19:09:29 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/build.sbt
+2020.12.26 19:23:23 WARN  no build tool detected in workspace '/Users/valana/Projects/personal/Kappa'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.26 19:26:36 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/projects/ApplicationBuild.scala
+2020.12.26 19:28:38 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/projects/plugins.sbt
+2020.12.26 19:31:36 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/projects/ApplicationBuild.scala
+2020.12.26 19:32:22 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/KafkaJob.scala
+2020.12.26 19:34:51 WARN  no build tool detected in workspace '/Users/valana/Projects/personal/Kappa'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.26 19:35:01 WARN  no build tool detected in workspace '/Users/valana/Projects/personal/Kappa'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.26 19:35:01 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/projects/ApplicationBuild.scala
+2020.12.29 09:36:58 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/src/main/scala/com/spydernaz/streaming/examples/KafkaJob.scala
+2020.12.29 15:25:07 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/build.sbt
+2020.12.29 15:25:09 WARN  no build target for: /Users/valana/Projects/personal/Kappa/images/jobs/projects/plugins.sbt
+2020.12.29 15:31:03 WARN  no build target for: /Users/valana/Projects/personal/Kappa/jobs/build.sbt
+2020.12.29 15:31:03 WARN  no build target for: /Users/valana/Projects/personal/Kappa/jobs/projects/ApplicationBuild.scala
+2020.12.29 15:31:03 WARN  no build target for: /Users/valana/Projects/personal/Kappa/jobs/projects/plugins.sbt

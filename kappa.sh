@@ -24,6 +24,20 @@ function startkappa_fn {
     # Start core services
     docker-compose -p kappa -f ./images/docker-compose.yaml up -d zookeeper kafka jobmanager taskmanager
     docker-compose -p kappa -f ./images/docker-compose.yaml scale taskmanager=3
+
+    echo "Sleeping for 30 seconds to wait for services to start"
+    sleep 30
+    docker exec -it kappa_kafka_1 kafka-topics --bootstrap-server kafka:9092 --create --topic flink_test_in -partitions 1 --replication-factor 1
+    docker exec -it kappa_kafka_1 kafka-topics --bootstrap-server kafka:9092 --create --topic flink_test_out -partitions 1 --replication-factor 1
+    
+    sleep 2
+    echo "Topics created:"
+    docker exec -it kappa_kafka_1 kafka-topics --list --zookeeper zookeeper:2181
+}
+
+function gendata_fn {
+    echo "not implemented"
+    exit 128
 }
 
 function stopkappa_fn {

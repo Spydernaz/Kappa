@@ -1,2 +1,7 @@
+.vscode/
+.metals/
+.bsp/
 .env
 data/
+target/
+compiled/
