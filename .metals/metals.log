@@ -74,3 +74,45 @@ something's wrong: no file:///Users/valana/Projects/personal/Kappa/images/jobs/s
 2020.12.29 15:31:03 WARN  no build target for: /Users/valana/Projects/personal/Kappa/jobs/build.sbt
 2020.12.29 15:31:03 WARN  no build target for: /Users/valana/Projects/personal/Kappa/jobs/projects/ApplicationBuild.scala
 2020.12.29 15:31:03 WARN  no build target for: /Users/valana/Projects/personal/Kappa/jobs/projects/plugins.sbt
+2020.12.29 15:45:39 WARN  no build target for: /Users/valana/Projects/personal/Kappa/jobs/src/main/scala/com/spydernaz/streaming/examples/KafkaJob.scala
+something's wrong: no file:///Users/valana/Projects/personal/Kappa/jobs/src/main/scala/com/spydernaz/streaming/examples/KafkaJob.scala in Array[String]RangePosition(file:///Users/valana/Projects/personal/Kappa/jobs/src/main/scala/com/spydernaz/streaming/examples/KafkaJob.scala, 453, 453, 466)
+2020.12.29 15:52:03 WARN  no build target for: /Users/valana/Projects/personal/Kappa/jobs/src/main/scala/com/spydernaz/streaming/examples/KafkaJob.scala
+2020.12.29 15:52:06 INFO  shutting down Metals
+2020.12.29 15:52:26 INFO  Started: Metals version 0.9.8 in workspace '/Users/valana/Projects/personal/Kappa' for client vscode.
+2020.12.29 15:52:27 INFO  time: initialize in 0.66s
+2020.12.29 15:52:27 INFO  Attempting to connect to the build server...
+2020.12.29 15:52:27 WARN  no build target for: /Users/valana/Projects/personal/Kappa/jobs/build.sbt
+2020.12.29 15:52:27 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/valana/Library/Caches/org.scalameta.metals/bsp.trace.json
+2020.12.29 15:52:33 INFO  no build target: using presentation compiler with only scala-library
+2020.12.29 15:52:33 WARN  no build target for: /Users/valana/Projects/personal/Kappa/project/metals.sbt
+Dec 29, 2020 3:52:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2020.12.29 15:52:43 INFO  time: connected to build server in 15s
+2020.12.29 15:52:43 INFO  Connected to Build server v1.4.4
+2020.12.29 15:52:43 INFO  Processing
+2020.12.29 15:52:43 INFO  Processing
+2020.12.29 15:52:43 INFO  Processing
+2020.12.29 15:53:27 INFO  Processing
+2020.12.29 15:53:27 INFO  Processing
+2020.12.29 15:53:27 INFO  Processing
+2020.12.29 15:53:27 INFO  Processing
+2020.12.29 15:53:45 INFO  time: imported build in 1m2s
+2020.12.29 15:53:45 INFO  Processing
+2020.12.29 15:53:48 INFO  time: indexed workspace in 2.65s
+2020.12.29 15:53:48 INFO  Processing
+2020.12.29 15:53:48 WARN  no build target for: /Users/valana/Projects/personal/Kappa/jobs/build.sbt
+2020.12.29 15:53:48 INFO  compiling kappa
+2020.12.29 15:53:48 INFO  time: compiled kappa in 21ms
+2020.12.29 15:53:48 INFO  compiling kappa-test
+2020.12.29 15:53:48 INFO  time: compiled kappa-test in 9ms
+2020.12.29 15:53:48 INFO  Processing
+2020.12.29 15:53:48 INFO  Processing
+2020.12.29 15:53:48 INFO  compiling kappa
+2020.12.29 15:53:48 INFO  time: compiled kappa in 7ms
+2020.12.29 15:53:48 INFO  compiling kappa-test
+2020.12.29 15:53:48 INFO  time: compiled kappa-test in 6ms
+2020.12.29 15:53:48 INFO  Processing
+2020.12.29 15:57:56 WARN  no build target for: /Users/valana/Projects/personal/Kappa/jobs/src/main/scala/com/spydernaz/streaming/examples/KafkaJob.scala
+2020.12.29 16:03:53 WARN  no build target for: /Users/valana/Projects/personal/Kappa/jobs/src/main/scala/com/spydernaz/streaming/examples/KafkaJob.scala
+something's wrong: no file:///Users/valana/Projects/personal/Kappa/jobs/src/main/scala/com/spydernaz/streaming/examples/KafkaJob.scala in Array[String]RangePosition(file:///Users/valana/Projects/personal/Kappa/jobs/src/main/scala/com/spydernaz/streaming/examples/KafkaJob.scala, 453, 453, 466)
+2020.12.29 16:18:32 WARN  no build target for: /Users/valana/Projects/personal/Kappa/jobs/src/main/scala/com/spydernaz/streaming/examples/KafkaJob.scala
