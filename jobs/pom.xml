@@ -71,7 +71,7 @@
         </dependency>
     </dependencies>
 
-    <!-- <build>
+    <build>
         <sourceDirectory>src/main/scala</sourceDirectory>
         <plugins>
             <plugin>
@@ -98,9 +98,9 @@
                 </executions>
             </plugin>
         </plugins>
-    </build> -->
+    </build>
 
-
+<!-- 
     <build>
         <pluginManagement>
             <plugins>
@@ -158,5 +158,5 @@
                 </executions>
             </plugin>
         </plugins>
-    </build>
+    </build> -->
 </project>
