@@ -33,10 +33,24 @@ function startkappa_fn {
     sleep 2
     echo "Topics created:"
     docker exec -it kappa_kafka_1 kafka-topics --list --zookeeper zookeeper:2181
+
+    echo "Compiling and uploading example kafka job."
+    cd jobs
+    mvn clean package
+    jarid=`curl -X POST -H "Expect:" -F "jarfile=@target/com.spydernaz.streaming.examples-1.1-SNAPSHOT-jar-with-dependencies.jar" http://localhost:8081/jars/upload | cut -f 5 -d '/' | cut -f 1 -d ',' | sed 's/"//'`
+
+    echo -e "submitting job: ${jarid}"
+    curl -X POST "http://localhost:8081/jars/${jarid}/run?entry-class=com.spydernaz.streaming.examples.KafkaJob"
 }
 
 function gendata_fn {
     echo "not implemented"
+    # docker exec -it kappa_kafka_1 kafka-console-producer --bootstrap-server localhost:9092 --topic flink_test_in
+    exit 128
+}
+function readdata_fn {
+    echo "not implemented"
+    # docker exec -it kappa_kafka_1 kafka-console-consumer --from-beginning --bootstrap-server kafka:9092 --topic flink_test_in
     exit 128
 }
 
